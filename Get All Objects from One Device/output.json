@@ -1,0 +1,1599 @@
+{
+  "$base": "Collection",
+  "nodeType": "Device",
+  "analog-input,1": {
+    "$base": "Object",
+    "displayName": "Return Air Temperature Sensor",
+    "truncated": "true"
+  },
+  "analog-input,2": {
+    "$base": "Object",
+    "displayName": "Supply Air Temperature Sensor",
+    "truncated": "true"
+  },
+  "analog-input,3": {
+    "$base": "Object",
+    "displayName": "Room Temperature Sensor",
+    "truncated": "true"
+  },
+  "analog-input,4": {
+    "$base": "Object",
+    "displayName": "Setpoint Potentiometer",
+    "truncated": "true"
+  },
+  "analog-input,5": {
+    "$base": "Object",
+    "displayName": "LPHW Flow Temperature Sensor/Element Cutout",
+    "truncated": "true"
+  },
+  "analog-input,6": {
+    "$base": "Object",
+    "displayName": "LPHW Return Temperature Sensor",
+    "truncated": "true"
+  },
+  "analog-input,7": {
+    "$base": "Object",
+    "displayName": "CHW Flow Temperature Sensor",
+    "truncated": "true"
+  },
+  "analog-input,8": {
+    "$base": "Object",
+    "displayName": "CHW Return Temperature Sensor",
+    "truncated": "true"
+  },
+  "analog-input,9": {
+    "$base": "Object",
+    "displayName": "Mains Current Transducer",
+    "truncated": "true"
+  },
+  "analog-input,12": {
+    "$base": "Object",
+    "displayName": "Light Level",
+    "truncated": "true"
+  },
+  "analog-input,101": {
+    "$base": "Object",
+    "displayName": "BACstat Temperature Sensor",
+    "truncated": "true"
+  },
+  "analog-input,103": {
+    "$base": "Object",
+    "displayName": "BACstat Humidity Sensor",
+    "truncated": "true"
+  },
+  "analog-input,104": {
+    "$base": "Object",
+    "displayName": "BACstat CO2 Sensor",
+    "truncated": "true"
+  },
+  "aic,1": {
+    "$base": "Object",
+    "displayName": "Temperature 10K -40-150 degC AIC",
+    "truncated": "true"
+  },
+  "aic,2": {
+    "$base": "Object",
+    "displayName": "10K Pot",
+    "truncated": "true"
+  },
+  "aic,3": {
+    "$base": "Object",
+    "displayName": "volts",
+    "truncated": "true"
+  },
+  "aic,4": {
+    "$base": "Object",
+    "displayName": "Resistance 0-20KOhm AIC",
+    "truncated": "true"
+  },
+  "aic,5": {
+    "$base": "Object",
+    "displayName": "Temperature 10K Modified AIC",
+    "truncated": "true"
+  },
+  "aic,6": {
+    "$base": "Object",
+    "displayName": "DNS-CH24 Humidity Sensor AIC",
+    "truncated": "true"
+  },
+  "aic,7": {
+    "$base": "Object",
+    "displayName": "DNS-C24 CO2 0-2000 PPM AIC",
+    "truncated": "true"
+  },
+  "aic,10": {
+    "$base": "Object",
+    "displayName": "Power Module Current Transducer AIC",
+    "truncated": "true"
+  },
+  "aic,11": {
+    "$base": "Object",
+    "displayName": "Lux AIC",
+    "truncated": "true"
+  },
+  "analog-output,7": {
+    "$base": "Object",
+    "displayName": "Fan 1 Speed Signal / EVO Fan Speed Signal",
+    "truncated": "true"
+  },
+  "analog-output,8": {
+    "$base": "Object",
+    "displayName": "Fan 2 Speed Signal",
+    "truncated": "true"
+  },
+  "analog-output,9": {
+    "$base": "Object",
+    "displayName": "Fan 3 Speed Signal",
+    "truncated": "true"
+  },
+  "analog-output,10": {
+    "$base": "Object",
+    "displayName": "Fan 4 Speed Signal",
+    "truncated": "true"
+  },
+  "aoc,1": {
+    "$base": "Object",
+    "displayName": "Actuator 0-10V AOC",
+    "truncated": "true"
+  },
+  "at,1": {
+    "$base": "Object",
+    "displayName": "FCU Power Consumption Totaliser",
+    "truncated": "true"
+  },
+  "analog-value,1": {
+    "$base": "Object",
+    "displayName": "Control Temperature",
+    "truncated": "true"
+  },
+  "analog-value,2": {
+    "$base": "Object",
+    "displayName": "Supply Air Temperature",
+    "truncated": "true"
+  },
+  "analog-value,3": {
+    "$base": "Object",
+    "displayName": "Heating Valve Position",
+    "truncated": "true"
+  },
+  "analog-value,4": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Position",
+    "truncated": "true"
+  },
+  "analog-value,5": {
+    "$base": "Object",
+    "displayName": "Current Total Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,6": {
+    "$base": "Object",
+    "displayName": "EVO Current Fan Voltage",
+    "truncated": "true"
+  },
+  "analog-value,7": {
+    "$base": "Object",
+    "displayName": "Fan 1 Current Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,8": {
+    "$base": "Object",
+    "displayName": "Fan 2 Current Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,9": {
+    "$base": "Object",
+    "displayName": "Fan 3 Current Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,10": {
+    "$base": "Object",
+    "displayName": "Fan 4 Current Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,11": {
+    "$base": "Object",
+    "displayName": "Operating Setpoint",
+    "truncated": "true"
+  },
+  "analog-value,12": {
+    "$base": "Object",
+    "displayName": "Master Setpoint",
+    "truncated": "true"
+  },
+  "analog-value,13": {
+    "$base": "Object",
+    "displayName": "Overall Fan Speed",
+    "truncated": "true"
+  },
+  "analog-value,14": {
+    "$base": "Object",
+    "displayName": "Heating Element Output",
+    "truncated": "true"
+  },
+  "analog-value,15": {
+    "$base": "Object",
+    "displayName": "Room Relative Humidity",
+    "truncated": "true"
+  },
+  "analog-value,16": {
+    "$base": "Object",
+    "displayName": "Room CO2 Level",
+    "truncated": "true"
+  },
+  "analog-value,17": {
+    "$base": "Object",
+    "displayName": "Specific Fan Power",
+    "truncated": "true"
+  },
+  "analog-value,18": {
+    "$base": "Object",
+    "displayName": "FCU Power Consumption",
+    "truncated": "true"
+  },
+  "analog-value,19": {
+    "$base": "Object",
+    "displayName": "Current Thermal Output",
+    "truncated": "true"
+  },
+  "analog-value,20": {
+    "$base": "Object",
+    "displayName": "Master Alarm Code",
+    "truncated": "true"
+  },
+  "analog-value,201": {
+    "$base": "Object",
+    "displayName": "FCU Design Total Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,202": {
+    "$base": "Object",
+    "displayName": "Fan Setback Factor",
+    "truncated": "true"
+  },
+  "analog-value,203": {
+    "$base": "Object",
+    "displayName": "Heating Valve Design Flow Rate",
+    "truncated": "true"
+  },
+  "analog-value,204": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Design Flow Rate",
+    "truncated": "true"
+  },
+  "analog-value,205": {
+    "$base": "Object",
+    "displayName": "EVO Fan Voltage for Design Airflow",
+    "truncated": "true"
+  },
+  "analog-value,206": {
+    "$base": "Object",
+    "displayName": "Maximum Allowed Airflow Per Fan",
+    "truncated": "true"
+  },
+  "analog-value,207": {
+    "$base": "Object",
+    "displayName": "Fan 1 Design Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,208": {
+    "$base": "Object",
+    "displayName": "Fan 2 Design Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,209": {
+    "$base": "Object",
+    "displayName": "Fan 3 Design Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,210": {
+    "$base": "Object",
+    "displayName": "Fan 4 Design Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,211": {
+    "$base": "Object",
+    "displayName": "Fabric Protection Setpoint",
+    "truncated": "true"
+  },
+  "analog-value,212": {
+    "$base": "Object",
+    "displayName": "PIR Activation Delay",
+    "truncated": "true"
+  },
+  "analog-value,213": {
+    "$base": "Object",
+    "displayName": "PIR Inactivation Delay",
+    "truncated": "true"
+  },
+  "analog-value,214": {
+    "$base": "Object",
+    "displayName": "Design Heating Duty",
+    "truncated": "true"
+  },
+  "analog-value,215": {
+    "$base": "Object",
+    "displayName": "Design Cooling Duty",
+    "truncated": "true"
+  },
+  "analog-value,216": {
+    "$base": "Object",
+    "displayName": "Minimum Allowed Airflow Per Fan",
+    "truncated": "true"
+  },
+  "analog-value,217": {
+    "$base": "Object",
+    "displayName": "Fan 1 Setback Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,218": {
+    "$base": "Object",
+    "displayName": "Fan 2 Setback Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,219": {
+    "$base": "Object",
+    "displayName": "Fan 3 Setback Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,220": {
+    "$base": "Object",
+    "displayName": "Fan 4 Setback Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,227": {
+    "$base": "Object",
+    "displayName": "Fan 1 Trim",
+    "truncated": "true"
+  },
+  "analog-value,228": {
+    "$base": "Object",
+    "displayName": "Fan 2 Trim",
+    "truncated": "true"
+  },
+  "analog-value,229": {
+    "$base": "Object",
+    "displayName": "Fan 3 Trim",
+    "truncated": "true"
+  },
+  "analog-value,230": {
+    "$base": "Object",
+    "displayName": "Fan 4 Trim",
+    "truncated": "true"
+  },
+  "analog-value,231": {
+    "$base": "Object",
+    "displayName": "Control Temperature Sensor Offset",
+    "truncated": "true"
+  },
+  "analog-value,232": {
+    "$base": "Object",
+    "displayName": "Supply Air Temperature Sensor Offset",
+    "truncated": "true"
+  },
+  "analog-value,233": {
+    "$base": "Object",
+    "displayName": "Heating Valve Trim",
+    "truncated": "true"
+  },
+  "analog-value,234": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Trim",
+    "truncated": "true"
+  },
+  "analog-value,235": {
+    "$base": "Object",
+    "displayName": "Heating Branch Trim",
+    "truncated": "true"
+  },
+  "analog-value,236": {
+    "$base": "Object",
+    "displayName": "Cooling Branch Trim",
+    "truncated": "true"
+  },
+  "analog-value,246": {
+    "$base": "Object",
+    "displayName": "Supply Air High Limit",
+    "truncated": "true"
+  },
+  "analog-value,248": {
+    "$base": "Object",
+    "displayName": "Supply Air Low Limit",
+    "truncated": "true"
+  },
+  "analog-value,250": {
+    "$base": "Object",
+    "displayName": "Setpoint Pot Lower Limit",
+    "truncated": "true"
+  },
+  "analog-value,251": {
+    "$base": "Object",
+    "displayName": "Setpoint Pot Upper Limit",
+    "truncated": "true"
+  },
+  "analog-value,252": {
+    "$base": "Object",
+    "displayName": "Setpoint Adjustment Range",
+    "truncated": "true"
+  },
+  "analog-value,253": {
+    "$base": "Object",
+    "displayName": "BACstat Timeout Period",
+    "truncated": "true"
+  },
+  "analog-value,254": {
+    "$base": "Object",
+    "displayName": "Maximum Valve Position During Boost",
+    "truncated": "true"
+  },
+  "analog-value,255": {
+    "$base": "Object",
+    "displayName": "Maximum Fan Speed During Boost",
+    "truncated": "true"
+  },
+  "analog-value,256": {
+    "$base": "Object",
+    "displayName": "Boost Mode Delay",
+    "truncated": "true"
+  },
+  "analog-value,261": {
+    "$base": "Object",
+    "displayName": "Occupied Dead Band",
+    "truncated": "true"
+  },
+  "analog-value,262": {
+    "$base": "Object",
+    "displayName": "Unoccupied Dead Band",
+    "truncated": "true"
+  },
+  "analog-value,263": {
+    "$base": "Object",
+    "displayName": "Occupied Valve Proportional Band",
+    "truncated": "true"
+  },
+  "analog-value,264": {
+    "$base": "Object",
+    "displayName": "Unoccupied Valve Proportional Band",
+    "truncated": "true"
+  },
+  "analog-value,265": {
+    "$base": "Object",
+    "displayName": "Occupied Fan Proportional Band",
+    "truncated": "true"
+  },
+  "analog-value,266": {
+    "$base": "Object",
+    "displayName": "Unoccupied Fan Proportional Band",
+    "truncated": "true"
+  },
+  "analog-value,267": {
+    "$base": "Object",
+    "displayName": "Boost Proportional Band",
+    "truncated": "true"
+  },
+  "analog-value,301": {
+    "$base": "Object",
+    "displayName": "Number of FCU Fans",
+    "truncated": "true"
+  },
+  "analog-value,302": {
+    "$base": "Object",
+    "displayName": "Filter Alarm Setpoint",
+    "truncated": "true"
+  },
+  "analog-value,303": {
+    "$base": "Object",
+    "displayName": "Heating Valve Motor Time for Design Flow",
+    "truncated": "true"
+  },
+  "analog-value,304": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Motor Time for Design Flow",
+    "truncated": "true"
+  },
+  "analog-value,305": {
+    "$base": "Object",
+    "displayName": "BACstat Keypress",
+    "truncated": "true"
+  },
+  "analog-value,306": {
+    "$base": "Object",
+    "displayName": "FCU Power Consumption kW",
+    "truncated": "true"
+  },
+  "analog-value,308": {
+    "$base": "Object",
+    "displayName": "Controller MAC Address",
+    "truncated": "true"
+  },
+  "analog-value,309": {
+    "$base": "Object",
+    "displayName": "Master/Slave Poll Interval",
+    "truncated": "true"
+  },
+  "analog-value,310": {
+    "$base": "Object",
+    "displayName": "Auto-Save Interval",
+    "truncated": "true"
+  },
+  "analog-value,311": {
+    "$base": "Object",
+    "displayName": "Maximum Valve Drives Before Resync",
+    "truncated": "true"
+  },
+  "analog-value,312": {
+    "$base": "Object",
+    "displayName": "Control Loop Bias at Shutdown",
+    "truncated": "true"
+  },
+  "analog-value,313": {
+    "$base": "Object",
+    "displayName": "Heating Valve Current Motor Time",
+    "truncated": "true"
+  },
+  "analog-value,314": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Current Motor Time",
+    "truncated": "true"
+  },
+  "analog-value,316": {
+    "$base": "Object",
+    "displayName": "Filter Meter",
+    "truncated": "true"
+  },
+  "analog-value,317": {
+    "$base": "Object",
+    "displayName": "Power Consumption at Design Air Volume",
+    "truncated": "true"
+  },
+  "analog-value,318": {
+    "$base": "Object",
+    "displayName": "Heating Control Boundary Value",
+    "truncated": "true"
+  },
+  "analog-value,319": {
+    "$base": "Object",
+    "displayName": "Cooling Control Boundary Value",
+    "truncated": "true"
+  },
+  "analog-value,320": {
+    "$base": "Object",
+    "displayName": "Primary Control Loop Integral Control Rate",
+    "truncated": "true"
+  },
+  "analog-value,333": {
+    "$base": "Object",
+    "displayName": "Heating Valve Flow Threshold",
+    "truncated": "true"
+  },
+  "analog-value,334": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Flow Threshold",
+    "truncated": "true"
+  },
+  "analog-value,337": {
+    "$base": "Object",
+    "displayName": "Mains Voltage",
+    "truncated": "true"
+  },
+  "analog-value,338": {
+    "$base": "Object",
+    "displayName": "Mains Current Draw",
+    "truncated": "true"
+  },
+  "analog-value,339": {
+    "$base": "Object",
+    "displayName": "ComTool Keypress",
+    "truncated": "true"
+  },
+  "analog-value,340": {
+    "$base": "Object",
+    "displayName": "Heating Element High Limit",
+    "truncated": "true"
+  },
+  "analog-value,343": {
+    "$base": "Object",
+    "displayName": "Heating Valve Motor Time for Full Stroke",
+    "truncated": "true"
+  },
+  "analog-value,344": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Motor Time for Full Stroke",
+    "truncated": "true"
+  },
+  "analog-value,350": {
+    "$base": "Object",
+    "displayName": "Waterside Main Control Factor",
+    "truncated": "true"
+  },
+  "analog-value,360": {
+    "$base": "Object",
+    "displayName": "Airside Main Control Factor",
+    "truncated": "true"
+  },
+  "analog-value,373": {
+    "$base": "Object",
+    "displayName": "Heating Valve Motor Time for Boost Flow",
+    "truncated": "true"
+  },
+  "analog-value,374": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Motor Time for Boost Flow",
+    "truncated": "true"
+  },
+  "analog-value,383": {
+    "$base": "Object",
+    "displayName": "Heating Valve Required Time",
+    "truncated": "true"
+  },
+  "analog-value,384": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Required Time",
+    "truncated": "true"
+  },
+  "analog-value,406": {
+    "$base": "Object",
+    "displayName": "FCU Standby Power Consumption",
+    "truncated": "true"
+  },
+  "analog-value,501": {
+    "$base": "Object",
+    "displayName": "FCU Power Consumption Total",
+    "truncated": "true"
+  },
+  "analog-value,601": {
+    "$base": "Object",
+    "displayName": "Lighting Setpoint",
+    "truncated": "true"
+  },
+  "bdc,2": {
+    "$base": "Object",
+    "displayName": "Occupied_Unoccupied BDC",
+    "truncated": "true"
+  },
+  "bdc,4": {
+    "$base": "Object",
+    "displayName": "Auto_Manual BDC",
+    "truncated": "true"
+  },
+  "bdc,5": {
+    "$base": "Object",
+    "displayName": "Alarm_Normal BDC",
+    "truncated": "true"
+  },
+  "bdc,7": {
+    "$base": "Object",
+    "displayName": "Master/Slave BDC",
+    "truncated": "true"
+  },
+  "bdc,8": {
+    "$base": "Object",
+    "displayName": "Running/Stopped BDC",
+    "truncated": "true"
+  },
+  "bdc,9": {
+    "$base": "Object",
+    "displayName": "Normally Open/Closed BDC",
+    "truncated": "true"
+  },
+  "bdc,10": {
+    "$base": "Object",
+    "displayName": "Belimo/Pettinaroli BDC",
+    "truncated": "true"
+  },
+  "bdc,11": {
+    "$base": "Object",
+    "displayName": "Fan Type BDC",
+    "truncated": "true"
+  },
+  "bdc,12": {
+    "$base": "Object",
+    "displayName": "Occupancy/Run Status BDC",
+    "truncated": "true"
+  },
+  "bde,1": {
+    "$base": "Object",
+    "displayName": "Exchange",
+    "truncated": "true"
+  },
+  "binary-input,10": {
+    "$base": "Object",
+    "displayName": "Multi-Function Input",
+    "truncated": "true"
+  },
+  "binary-input,11": {
+    "$base": "Object",
+    "displayName": "Mode Switch",
+    "truncated": "true"
+  },
+  "binary-input,105": {
+    "$base": "Object",
+    "displayName": "BACstat PIR",
+    "truncated": "true"
+  },
+  "bmd,1": {
+    "$base": "Object",
+    "displayName": "BBMD List1 101",
+    "truncated": "true"
+  },
+  "binary-output,1": {
+    "$base": "Object",
+    "displayName": "Heating Valve Open / Element Energise",
+    "truncated": "true"
+  },
+  "binary-output,2": {
+    "$base": "Object",
+    "displayName": "Heating Valve Close",
+    "truncated": "true"
+  },
+  "binary-output,3": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Open",
+    "truncated": "true"
+  },
+  "binary-output,4": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Close",
+    "truncated": "true"
+  },
+  "binary-output,5": {
+    "$base": "Object",
+    "displayName": "Standby Sentinal",
+    "truncated": "true"
+  },
+  "binary-output,6": {
+    "$base": "Object",
+    "displayName": "Status Light",
+    "truncated": "true"
+  },
+  "bt,1": {
+    "$base": "Object",
+    "displayName": "FCU Run Timer",
+    "truncated": "true"
+  },
+  "binary-value,1": {
+    "$base": "Object",
+    "displayName": "FCU Run Status",
+    "truncated": "true"
+  },
+  "binary-value,2": {
+    "$base": "Object",
+    "displayName": "FCU Occupancy Status",
+    "truncated": "true"
+  },
+  "binary-value,5": {
+    "$base": "Object",
+    "displayName": "Optimum Start",
+    "truncated": "true"
+  },
+  "binary-value,7": {
+    "$base": "Object",
+    "displayName": "Commissioning Mode",
+    "truncated": "true"
+  },
+  "binary-value,8": {
+    "$base": "Object",
+    "displayName": "Flushing Mode",
+    "truncated": "true"
+  },
+  "binary-value,9": {
+    "$base": "Object",
+    "displayName": "Full Heating Mode",
+    "truncated": "true"
+  },
+  "binary-value,10": {
+    "$base": "Object",
+    "displayName": "Full Cooling Mode",
+    "truncated": "true"
+  },
+  "binary-value,11": {
+    "$base": "Object",
+    "displayName": "Neutral Mode",
+    "truncated": "true"
+  },
+  "binary-value,12": {
+    "$base": "Object",
+    "displayName": "Boost Mode",
+    "truncated": "true"
+  },
+  "binary-value,13": {
+    "$base": "Object",
+    "displayName": "BMS Run Signal",
+    "truncated": "true"
+  },
+  "binary-value,14": {
+    "$base": "Object",
+    "displayName": "BMS Occupancy Signal",
+    "truncated": "true"
+  },
+  "binary-value,15": {
+    "$base": "Object",
+    "displayName": "BACstat Control Signal",
+    "truncated": "true"
+  },
+  "binary-value,16": {
+    "$base": "Object",
+    "displayName": "Fabric Protection Active",
+    "truncated": "true"
+  },
+  "binary-value,20": {
+    "$base": "Object",
+    "displayName": "Master Alarm",
+    "truncated": "true"
+  },
+  "binary-value,21": {
+    "$base": "Object",
+    "displayName": "Generic Alarm",
+    "truncated": "true"
+  },
+  "binary-value,22": {
+    "$base": "Object",
+    "displayName": "Filter Alarm",
+    "truncated": "true"
+  },
+  "binary-value,23": {
+    "$base": "Object",
+    "displayName": "Condensate Alarm",
+    "truncated": "true"
+  },
+  "binary-value,24": {
+    "$base": "Object",
+    "displayName": "Fan Failure Alarm",
+    "truncated": "true"
+  },
+  "binary-value,25": {
+    "$base": "Object",
+    "displayName": "Sensor Failure Alarm",
+    "truncated": "true"
+  },
+  "binary-value,26": {
+    "$base": "Object",
+    "displayName": "Heating Alarm",
+    "truncated": "true"
+  },
+  "binary-value,27": {
+    "$base": "Object",
+    "displayName": "Cooling Alarm",
+    "truncated": "true"
+  },
+  "binary-value,28": {
+    "$base": "Object",
+    "displayName": "Element Cutout Alarm",
+    "truncated": "true"
+  },
+  "binary-value,201": {
+    "$base": "Object",
+    "displayName": "Disable Variable Air Volume",
+    "truncated": "true"
+  },
+  "binary-value,202": {
+    "$base": "Object",
+    "displayName": "Optimum Start Enabled",
+    "truncated": "true"
+  },
+  "binary-value,203": {
+    "$base": "Object",
+    "displayName": "Integral Control Enabled",
+    "truncated": "true"
+  },
+  "binary-value,204": {
+    "$base": "Object",
+    "displayName": "BACstat Connected",
+    "truncated": "true"
+  },
+  "binary-value,205": {
+    "$base": "Object",
+    "displayName": "Room Stat Potentiometer Connected",
+    "truncated": "true"
+  },
+  "binary-value,207": {
+    "$base": "Object",
+    "displayName": "Reset BACstat Setpoint on BMS Stop Signal",
+    "truncated": "true"
+  },
+  "binary-value,208": {
+    "$base": "Object",
+    "displayName": "Use PIR for Run Status",
+    "truncated": "true"
+  },
+  "binary-value,209": {
+    "$base": "Object",
+    "displayName": "Disable Boost Mode",
+    "truncated": "true"
+  },
+  "binary-value,210": {
+    "$base": "Object",
+    "displayName": "ECO Start Enabled",
+    "truncated": "true"
+  },
+  "binary-value,211": {
+    "$base": "Object",
+    "displayName": "ECO Start Triggered",
+    "truncated": "true"
+  },
+  "binary-value,236": {
+    "$base": "Object",
+    "displayName": "Get Run Status from Master FCU",
+    "truncated": "true"
+  },
+  "binary-value,237": {
+    "$base": "Object",
+    "displayName": "Get Control Temperature from Master FCU",
+    "truncated": "true"
+  },
+  "binary-value,238": {
+    "$base": "Object",
+    "displayName": "Get Occupancy from Master FCU",
+    "truncated": "true"
+  },
+  "binary-value,239": {
+    "$base": "Object",
+    "displayName": "Get Setpoint from Master FCU",
+    "truncated": "true"
+  },
+  "binary-value,302": {
+    "$base": "Object",
+    "displayName": "Disable Fans",
+    "truncated": "true"
+  },
+  "binary-value,303": {
+    "$base": "Object",
+    "displayName": "Heating Valve Resync Required",
+    "truncated": "true"
+  },
+  "binary-value,304": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Resync Required",
+    "truncated": "true"
+  },
+  "binary-value,305": {
+    "$base": "Object",
+    "displayName": "PIR Activated",
+    "truncated": "true"
+  },
+  "binary-value,306": {
+    "$base": "Object",
+    "displayName": "Reverse Valve Operation",
+    "truncated": "true"
+  },
+  "binary-value,307": {
+    "$base": "Object",
+    "displayName": "Disable Fan Auto-Setup",
+    "truncated": "true"
+  },
+  "binary-value,308": {
+    "$base": "Object",
+    "displayName": "Disable Valve Auto-Setup",
+    "truncated": "true"
+  },
+  "binary-value,309": {
+    "$base": "Object",
+    "displayName": "Calibrate Sensors",
+    "truncated": "true"
+  },
+  "binary-value,310": {
+    "$base": "Object",
+    "displayName": "Test Power Consumption",
+    "truncated": "true"
+  },
+  "binary-value,311": {
+    "$base": "Object",
+    "displayName": "Save to Flash Required",
+    "truncated": "true"
+  },
+  "binary-value,312": {
+    "$base": "Object",
+    "displayName": "Load from Flash Required",
+    "truncated": "true"
+  },
+  "binary-value,313": {
+    "$base": "Object",
+    "displayName": "Heating Valve Resync in Progress",
+    "truncated": "true"
+  },
+  "binary-value,314": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Resync in Progress",
+    "truncated": "true"
+  },
+  "binary-value,316": {
+    "$base": "Object",
+    "displayName": "Recently Changed Status",
+    "truncated": "true"
+  },
+  "binary-value,317": {
+    "$base": "Object",
+    "displayName": "Heating Element Delay Active",
+    "truncated": "true"
+  },
+  "binary-value,318": {
+    "$base": "Object",
+    "displayName": "Fan Delay Active",
+    "truncated": "true"
+  },
+  "binary-value,319": {
+    "$base": "Object",
+    "displayName": "Test Outputs",
+    "truncated": "true"
+  },
+  "binary-value,323": {
+    "$base": "Object",
+    "displayName": "Heating Valve Drive in Progress",
+    "truncated": "true"
+  },
+  "binary-value,324": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Drive in Progress",
+    "truncated": "true"
+  },
+  "binary-value,325": {
+    "$base": "Object",
+    "displayName": "Valve Setup Data Recalc Required",
+    "truncated": "true"
+  },
+  "binary-value,326": {
+    "$base": "Object",
+    "displayName": "Fan Setup Data Recalc Required",
+    "truncated": "true"
+  },
+  "binary-value,327": {
+    "$base": "Object",
+    "displayName": "Reset Run Time Alarm",
+    "truncated": "true"
+  },
+  "binary-value,328": {
+    "$base": "Object",
+    "displayName": "Clear Manual Overrides",
+    "truncated": "true"
+  },
+  "binary-value,329": {
+    "$base": "Object",
+    "displayName": "Allow Manual Overrides to Persist",
+    "truncated": "true"
+  },
+  "binary-value,330": {
+    "$base": "Object",
+    "displayName": "Reset Bias",
+    "truncated": "true"
+  },
+  "binary-value,331": {
+    "$base": "Object",
+    "displayName": "Recall Previous Output Bias at Startup",
+    "truncated": "true"
+  },
+  "binary-value,332": {
+    "$base": "Object",
+    "displayName": "Update Outputs",
+    "truncated": "true"
+  },
+  "loop,1": {
+    "$base": "Object",
+    "displayName": "Primary Control Loop",
+    "truncated": "true"
+  },
+  "loop,2": {
+    "$base": "Object",
+    "displayName": "Boost Control Loop",
+    "truncated": "true"
+  },
+  "loop,3": {
+    "$base": "Object",
+    "displayName": "Supply Air Control Loop",
+    "truncated": "true"
+  },
+  "dbi,101": {
+    "$base": "Object",
+    "displayName": "Database Information 101",
+    "truncated": "true"
+  },
+  "del,1": {
+    "$base": "Object",
+    "displayName": "DEL1__BV13_85",
+    "truncated": "true"
+  },
+  "del,26": {
+    "$base": "Object",
+    "displayName": "DEL26__AI1_85",
+    "truncated": "true"
+  },
+  "del,27": {
+    "$base": "Object",
+    "displayName": "DEL27__AI6_85",
+    "truncated": "true"
+  },
+  "del,28": {
+    "$base": "Object",
+    "displayName": "DEL28__AI8_85",
+    "truncated": "true"
+  },
+  "des,1": {
+    "$base": "Object",
+    "displayName": "Data Exchange Settings 101",
+    "truncated": "true"
+  },
+  "device,101": {
+    "$base": "Object",
+    "displayName": "FCU-G01",
+    "truncated": "true"
+  },
+  "eva,1": {
+    "$base": "Object",
+    "displayName": "EVA1",
+    "truncated": "true"
+  },
+  "eva,2": {
+    "$base": "Object",
+    "displayName": "EVA2",
+    "truncated": "true"
+  },
+  "eva,3": {
+    "$base": "Object",
+    "displayName": "EVA3",
+    "truncated": "true"
+  },
+  "eva,4": {
+    "$base": "Object",
+    "displayName": "EVA4",
+    "truncated": "true"
+  },
+  "eva,5": {
+    "$base": "Object",
+    "displayName": "EVA5",
+    "truncated": "true"
+  },
+  "eva,6": {
+    "$base": "Object",
+    "displayName": "EVA6",
+    "truncated": "true"
+  },
+  "eva,7": {
+    "$base": "Object",
+    "displayName": "EVA7",
+    "truncated": "true"
+  },
+  "eva,8": {
+    "$base": "Object",
+    "displayName": "EVA8",
+    "truncated": "true"
+  },
+  "eva,9": {
+    "$base": "Object",
+    "displayName": "EVA9",
+    "truncated": "true"
+  },
+  "eva,10": {
+    "$base": "Object",
+    "displayName": "EVA10",
+    "truncated": "true"
+  },
+  "eva,11": {
+    "$base": "Object",
+    "displayName": "EVA11",
+    "truncated": "true"
+  },
+  "eva,12": {
+    "$base": "Object",
+    "displayName": "EVA12",
+    "truncated": "true"
+  },
+  "eva,13": {
+    "$base": "Object",
+    "displayName": "EVA13",
+    "truncated": "true"
+  },
+  "eva,14": {
+    "$base": "Object",
+    "displayName": "EVA14",
+    "truncated": "true"
+  },
+  "eva,15": {
+    "$base": "Object",
+    "displayName": "EVA15",
+    "truncated": "true"
+  },
+  "eva,16": {
+    "$base": "Object",
+    "displayName": "EVA16",
+    "truncated": "true"
+  },
+  "eva,17": {
+    "$base": "Object",
+    "displayName": "EVA17",
+    "truncated": "true"
+  },
+  "eva,18": {
+    "$base": "Object",
+    "displayName": "EVA18",
+    "truncated": "true"
+  },
+  "eva,19": {
+    "$base": "Object",
+    "displayName": "EVA19",
+    "truncated": "true"
+  },
+  "eva,20": {
+    "$base": "Object",
+    "displayName": "EVA20",
+    "truncated": "true"
+  },
+  "notification-class,1": {
+    "$base": "Object",
+    "displayName": "Maintenance",
+    "truncated": "true"
+  },
+  "notification-class,2": {
+    "$base": "Object",
+    "displayName": "Network",
+    "truncated": "true"
+  },
+  "notification-class,3": {
+    "$base": "Object",
+    "displayName": "Security",
+    "truncated": "true"
+  },
+  "notification-class,4": {
+    "$base": "Object",
+    "displayName": "Critical",
+    "truncated": "true"
+  },
+  "notification-class,5": {
+    "$base": "Object",
+    "displayName": "Notification",
+    "truncated": "true"
+  },
+  "notification-class,6": {
+    "$base": "Object",
+    "displayName": "Fire",
+    "truncated": "true"
+  },
+  "notification-class,7": {
+    "$base": "Object",
+    "displayName": "Access Control Event",
+    "truncated": "true"
+  },
+  "notification-class,8": {
+    "$base": "Object",
+    "displayName": "Access Control Alarm",
+    "truncated": "true"
+  },
+  "notification-class,9": {
+    "$base": "Object",
+    "displayName": "Archival",
+    "truncated": "true"
+  },
+  "evn,1": {
+    "$base": "Object",
+    "displayName": "EVN1",
+    "truncated": "true"
+  },
+  "evn,2": {
+    "$base": "Object",
+    "displayName": "EVN2",
+    "truncated": "true"
+  },
+  "evn,3": {
+    "$base": "Object",
+    "displayName": "EVN3",
+    "truncated": "true"
+  },
+  "evn,4": {
+    "$base": "Object",
+    "displayName": "EVN4",
+    "truncated": "true"
+  },
+  "evn,5": {
+    "$base": "Object",
+    "displayName": "EVN5",
+    "truncated": "true"
+  },
+  "evn,6": {
+    "$base": "Object",
+    "displayName": "EVN6",
+    "truncated": "true"
+  },
+  "evn,7": {
+    "$base": "Object",
+    "displayName": "EVN7",
+    "truncated": "true"
+  },
+  "evn,8": {
+    "$base": "Object",
+    "displayName": "EVN8",
+    "truncated": "true"
+  },
+  "evn,9": {
+    "$base": "Object",
+    "displayName": "EVN9",
+    "truncated": "true"
+  },
+  "evn,10": {
+    "$base": "Object",
+    "displayName": "EVN10",
+    "truncated": "true"
+  },
+  "evs,1": {
+    "$base": "Object",
+    "displayName": "Event and Alarm Settings 101",
+    "truncated": "true"
+  },
+  "file,1": {
+    "$base": "Object",
+    "displayName": "Database Transfer File",
+    "truncated": "true"
+  },
+  "ips,1": {
+    "$base": "Object",
+    "displayName": "Internet Protocol Settings",
+    "truncated": "true"
+  },
+  "mic,2": {
+    "$base": "Object",
+    "displayName": "Input Status Config",
+    "truncated": "true"
+  },
+  "mic,3": {
+    "$base": "Object",
+    "displayName": "FCU Size MIC",
+    "truncated": "true"
+  },
+  "mic,4": {
+    "$base": "Object",
+    "displayName": "Heating Valve Type MIC",
+    "truncated": "true"
+  },
+  "mic,5": {
+    "$base": "Object",
+    "displayName": "Control MIC",
+    "truncated": "true"
+  },
+  "mic,6": {
+    "$base": "Object",
+    "displayName": "FCU Type MIC",
+    "truncated": "true"
+  },
+  "mic,7": {
+    "$base": "Object",
+    "displayName": "Test Result MIC",
+    "truncated": "true"
+  },
+  "mic,8": {
+    "$base": "Object",
+    "displayName": "Multi-Function Input MIC",
+    "truncated": "true"
+  },
+  "mic,9": {
+    "$base": "Object",
+    "displayName": "FCU Mode MIC",
+    "truncated": "true"
+  },
+  "mic,10": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Type MIC",
+    "truncated": "true"
+  },
+  "mic,11": {
+    "$base": "Object",
+    "displayName": "TEST STAGE MIC",
+    "truncated": "true"
+  },
+  "mt,1": {
+    "$base": "Object",
+    "displayName": "FCU Thermal Log",
+    "truncated": "true"
+  },
+  "mt,2": {
+    "$base": "Object",
+    "displayName": "FCU Power Log",
+    "truncated": "true"
+  },
+  "multi-state-value,1": {
+    "$base": "Object",
+    "displayName": "FCU Operating Mode",
+    "truncated": "true"
+  },
+  "multi-state-value,201": {
+    "$base": "Object",
+    "displayName": "FCU Size",
+    "truncated": "true"
+  },
+  "multi-state-value,202": {
+    "$base": "Object",
+    "displayName": "FCU Type",
+    "truncated": "true"
+  },
+  "multi-state-value,203": {
+    "$base": "Object",
+    "displayName": "Heating Valve/Actuator Type",
+    "truncated": "true"
+  },
+  "multi-state-value,204": {
+    "$base": "Object",
+    "displayName": "Cooling Valve/Actuator Type",
+    "truncated": "true"
+  },
+  "multi-state-value,205": {
+    "$base": "Object",
+    "displayName": "Multi-Function Input Configuration",
+    "truncated": "true"
+  },
+  "net,1": {
+    "$base": "Object",
+    "displayName": "BACnet Settings 101",
+    "truncated": "true"
+  },
+  "ors,1": {
+    "$base": "Object",
+    "displayName": "Hide Me",
+    "truncated": "true"
+  },
+  "pan,1": {
+    "$base": "Object",
+    "displayName": "Priority Names 101",
+    "truncated": "true"
+  },
+  "program,1": {
+    "$base": "Object",
+    "displayName": "Main / High Priority Calculations",
+    "truncated": "true"
+  },
+  "program,2": {
+    "$base": "Object",
+    "displayName": "Control Calculations",
+    "truncated": "true"
+  },
+  "program,3": {
+    "$base": "Object",
+    "displayName": "Status Calculations",
+    "truncated": "true"
+  },
+  "program,4": {
+    "$base": "Object",
+    "displayName": "Mode Calculations",
+    "truncated": "true"
+  },
+  "program,5": {
+    "$base": "Object",
+    "displayName": "Valve Setup Calculations",
+    "truncated": "true"
+  },
+  "program,6": {
+    "$base": "Object",
+    "displayName": "Fan Setup Calculations",
+    "truncated": "true"
+  },
+  "program,7": {
+    "$base": "Object",
+    "displayName": "Heating Valve Program",
+    "truncated": "true"
+  },
+  "program,8": {
+    "$base": "Object",
+    "displayName": "Cooling Valve Program",
+    "truncated": "true"
+  },
+  "program,9": {
+    "$base": "Object",
+    "displayName": "Matrix Fan Program",
+    "truncated": "true"
+  },
+  "program,10": {
+    "$base": "Object",
+    "displayName": "EVO Fan Program",
+    "truncated": "true"
+  },
+  "program,11": {
+    "$base": "Object",
+    "displayName": "Status Light Program",
+    "truncated": "true"
+  },
+  "program,12": {
+    "$base": "Object",
+    "displayName": "BACstat Program",
+    "truncated": "true"
+  },
+  "program,13": {
+    "$base": "Object",
+    "displayName": "Heating Element Program",
+    "truncated": "true"
+  },
+  "program,14": {
+    "$base": "Object",
+    "displayName": "Additional Processes",
+    "truncated": "true"
+  },
+  "program,15": {
+    "$base": "Object",
+    "displayName": "Output Test",
+    "truncated": "true"
+  },
+  "program,16": {
+    "$base": "Object",
+    "displayName": "Medium Priority Calculations",
+    "truncated": "true"
+  },
+  "program,17": {
+    "$base": "Object",
+    "displayName": "Powerup Procedure",
+    "truncated": "true"
+  },
+  "program,18": {
+    "$base": "Object",
+    "displayName": "Alarm Calculations",
+    "truncated": "true"
+  },
+  "program,19": {
+    "$base": "Object",
+    "displayName": "Control Factor Calculations",
+    "truncated": "true"
+  },
+  "program,21": {
+    "$base": "Object",
+    "displayName": "Occupancy Status Calculations",
+    "truncated": "true"
+  },
+  "program,22": {
+    "$base": "Object",
+    "displayName": "Sensor Calibration Program",
+    "truncated": "true"
+  },
+  "program,23": {
+    "$base": "Object",
+    "displayName": "ComTool Program",
+    "truncated": "true"
+  },
+  "program,24": {
+    "$base": "Object",
+    "displayName": "Job Specific Processes",
+    "truncated": "true"
+  },
+  "sdl,1": {
+    "$base": "Object",
+    "displayName": "Slave Device List 101",
+    "truncated": "true"
+  },
+  "sua,1": {
+    "$base": "Object",
+    "displayName": "DELTA",
+    "truncated": "true"
+  },
+  "trend-log,1": {
+    "$base": "Object",
+    "displayName": "FCU Control Temperature Log",
+    "truncated": "true"
+  },
+  "trend-log,2": {
+    "$base": "Object",
+    "displayName": "FCU Supply Air Temperature Log",
+    "truncated": "true"
+  },
+  "trend-log,3": {
+    "$base": "Object",
+    "displayName": "FCU Heating Valve Position Log",
+    "truncated": "true"
+  },
+  "trend-log,4": {
+    "$base": "Object",
+    "displayName": "FCU Cooling Valve Position Log",
+    "truncated": "true"
+  },
+  "trend-log,5": {
+    "$base": "Object",
+    "displayName": "FCU Power Consumption Log",
+    "truncated": "true"
+  },
+  "trend-log,6": {
+    "$base": "Object",
+    "displayName": "FCU Fan Speed Percentage Log",
+    "truncated": "true"
+  },
+  "trend-log,7": {
+    "$base": "Object",
+    "displayName": "FCU Heating Element Log",
+    "truncated": "true"
+  },
+  "trend-log,8": {
+    "$base": "Object",
+    "displayName": "FCU Setpoint Log",
+    "truncated": "true"
+  }
+}

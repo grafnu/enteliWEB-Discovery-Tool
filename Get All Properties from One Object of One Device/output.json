@@ -1,0 +1,209 @@
+{
+  "$base": "Object",
+  "displayName": "Return Air Temperature Sensor",
+  "object-identifier": {
+    "$base": "ObjectIdentifier",
+    "value": "analog-input,1"
+  },
+  "object-type": {
+    "$base": "Enumerated",
+    "value": "analog-input"
+  },
+  "object-name": {
+    "$base": "String",
+    "value": "Return Air Temperature Sensor"
+  },
+  "description": {
+    "$base": "String",
+    "value": "Sensor input. Do not map BMS directly to inputs or outputs - they do not always give a clear idea as to what the FCU is actually doing. Do not unwire factory wired sensors."
+  },
+  "flags": {
+    "$base": "BitString",
+    "value": "private1"
+  },
+  "present-value": {
+    "$base": "Real",
+    "value": "18.1084"
+  },
+  "last-value": {
+    "$base": "Real",
+    "value": "17.8602"
+  },
+  "status-flags": {
+    "$base": "BitString",
+    "value": ""
+  },
+  "reset": {
+    "$base": "Boolean",
+    "value": 0
+  },
+  "units": {
+    "$base": "Enumerated",
+    "value": "°C"
+  },
+  "commission-flag": {
+    "$base": "Enumerated",
+    "value": "commissioned"
+  },
+  "type-reference": {
+    "$base": "ObjectIdentifier",
+    "value": "aic,1"
+  },
+  "event-state": {
+    "$base": "Enumerated",
+    "value": "normal"
+  },
+  "reliability": {
+    "$base": "Enumerated",
+    "value": "no-fault-detected"
+  },
+  "out-of-service": {
+    "$base": "Boolean",
+    "value": 0
+  },
+  "device-type": {
+    "$base": "String",
+    "value": "Temperature 10K -40-150 degC AIC"
+  },
+  "update-interval": {
+    "$base": "Unsigned",
+    "value": "200"
+  },
+  "min-pres-value": {
+    "$base": "Real",
+    "value": "-40"
+  },
+  "max-pres-value": {
+    "$base": "Real",
+    "value": "150"
+  },
+  "resolution": {
+    "$base": "Real",
+    "value": "0.0495282"
+  },
+  "cov-increment": {
+    "$base": "Real",
+    "value": "0.1"
+  },
+  "ad-filter": {
+    "$base": "Unsigned",
+    "value": "80"
+  },
+  "filter-delay-timer": {
+    "$base": "Choice",
+    "filter-delay-timer": {
+      "$base": "Unsigned",
+      "value": 0
+    }
+  },
+  "ad-value": {
+    "$base": "Unsigned",
+    "value": 0
+  },
+  "calibration": {
+    "$base": "Real",
+    "value": 0
+  },
+  "fixed-point": {
+    "$base": "Boolean",
+    "value": "1"
+  },
+  "decimal-places": {
+    "$base": "Unsigned",
+    "value": "1"
+  },
+  "external-control": {
+    "$base": "Boolean",
+    "value": "1"
+  },
+  "time-delay": {
+    "$base": "Unsigned",
+    "value": 0
+  },
+  "notification-class": {
+    "$base": "Unsigned",
+    "value": 0
+  },
+  "high-limit": {
+    "$base": "Real",
+    "value": 0
+  },
+  "low-limit": {
+    "$base": "Real",
+    "value": 0
+  },
+  "deadband": {
+    "$base": "Real",
+    "value": 0
+  },
+  "limit-enable": {
+    "$base": "BitString",
+    "value": ""
+  },
+  "event-enable": {
+    "$base": "BitString",
+    "value": ""
+  },
+  "acked-transitions": {
+    "$base": "BitString",
+    "value": ""
+  },
+  "notify-type": {
+    "$base": "Enumerated",
+    "value": "alarm"
+  },
+  "event-time-stamps": {
+    "1": {
+      "$base": "Choice",
+      "dateTime": {
+        "$base": "DateTime",
+        "value": "*-*-*-*T*:*:*.*"
+      }
+    },
+    "2": {
+      "$base": "Choice",
+      "dateTime": {
+        "$base": "DateTime",
+        "value": "*-*-*-*T*:*:*.*"
+      }
+    },
+    "3": {
+      "$base": "Choice",
+      "dateTime": {
+        "$base": "DateTime",
+        "value": "*-*-*-*T*:*:*.*"
+      }
+    },
+    "$base": "Array"
+  },
+  "previous-reliability": {
+    "$base": "Enumerated",
+    "value": "no-fault-detected"
+  },
+  "hal-flags": {
+    "$base": "BitString",
+    "value": ""
+  },
+  "event-detection-enable": {
+    "$base": "Boolean",
+    "value": 0
+  },
+  "intrinsic-info": {
+    "$base": "Array"
+  },
+  "event-message-texts-config": {
+    "1": {
+      "$base": "String",
+      "value": ""
+    },
+    "2": {
+      "$base": "String",
+      "value": ""
+    },
+    "3": {
+      "$base": "String",
+      "value": ""
+    },
+    "$base": "Array"
+  }
+}

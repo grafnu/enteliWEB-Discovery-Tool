@@ -1,0 +1,555 @@
+{
+  "88": {
+    "$base": "Collection",
+    "displayName": "enteliCLOUD",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "100": {
+    "$base": "Collection",
+    "displayName": "Ground Floor Router",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "101": {
+    "$base": "Collection",
+    "displayName": "FCU-G01",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "102": {
+    "$base": "Collection",
+    "displayName": "FCU002",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "103": {
+    "$base": "Collection",
+    "displayName": "FCU003",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "104": {
+    "$base": "Collection",
+    "displayName": "FCU004",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "105": {
+    "$base": "Collection",
+    "displayName": "FCU005",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "106": {
+    "$base": "Collection",
+    "displayName": "FCU006",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "107": {
+    "$base": "Collection",
+    "displayName": "FCU007",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "108": {
+    "$base": "Collection",
+    "displayName": "FCU008",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "109": {
+    "$base": "Collection",
+    "displayName": "FCU009",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "110": {
+    "$base": "Collection",
+    "displayName": "FCU010",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "111": {
+    "$base": "Collection",
+    "displayName": "FCU011",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "112": {
+    "$base": "Collection",
+    "displayName": "FCU012",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "113": {
+    "$base": "Collection",
+    "displayName": "FCU013",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "114": {
+    "$base": "Collection",
+    "displayName": "FCU014",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "115": {
+    "$base": "Collection",
+    "displayName": "FCU015",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "116": {
+    "$base": "Collection",
+    "displayName": "FCU016",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "117": {
+    "$base": "Collection",
+    "displayName": "FCU017",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "118": {
+    "$base": "Collection",
+    "displayName": "FCU018",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "200": {
+    "$base": "Collection",
+    "displayName": "First Floor Router",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "201": {
+    "$base": "Collection",
+    "displayName": "FCU101",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "202": {
+    "$base": "Collection",
+    "displayName": "FCU102",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "203": {
+    "$base": "Collection",
+    "displayName": "FCU103",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "204": {
+    "$base": "Collection",
+    "displayName": "FCU104",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "205": {
+    "$base": "Collection",
+    "displayName": "FCU105",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "206": {
+    "$base": "Collection",
+    "displayName": "FCU106",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "207": {
+    "$base": "Collection",
+    "displayName": "FCU107",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "208": {
+    "$base": "Collection",
+    "displayName": "FCU108",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "209": {
+    "$base": "Collection",
+    "displayName": "FCU109",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "210": {
+    "$base": "Collection",
+    "displayName": "FCU110",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "211": {
+    "$base": "Collection",
+    "displayName": "FCU111",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "212": {
+    "$base": "Collection",
+    "displayName": "FCU112",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "213": {
+    "$base": "Collection",
+    "displayName": "FCU113",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "214": {
+    "$base": "Collection",
+    "displayName": "FCU114",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "215": {
+    "$base": "Collection",
+    "displayName": "FCU115",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "216": {
+    "$base": "Collection",
+    "displayName": "FCU116",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "217": {
+    "$base": "Collection",
+    "displayName": "FCU117",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "218": {
+    "$base": "Collection",
+    "displayName": "FCU118",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "219": {
+    "$base": "Collection",
+    "displayName": "FCU119",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "220": {
+    "$base": "Collection",
+    "displayName": "FCU120",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "221": {
+    "$base": "Collection",
+    "displayName": "FCU121",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "222": {
+    "$base": "Collection",
+    "displayName": "FCU122",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "223": {
+    "$base": "Collection",
+    "displayName": "FCU123",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "224": {
+    "$base": "Collection",
+    "displayName": "FCU124",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "225": {
+    "$base": "Collection",
+    "displayName": "FCU125",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "226": {
+    "$base": "Collection",
+    "displayName": "FCU126",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "227": {
+    "$base": "Collection",
+    "displayName": "FCU127",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "228": {
+    "$base": "Collection",
+    "displayName": "FCU128",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "229": {
+    "$base": "Collection",
+    "displayName": "FCU129",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "230": {
+    "$base": "Collection",
+    "displayName": "FCU130",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "231": {
+    "$base": "Collection",
+    "displayName": "FCU131",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "232": {
+    "$base": "Collection",
+    "displayName": "FCU132",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "300": {
+    "$base": "Collection",
+    "displayName": "Second Floor Router",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "301": {
+    "$base": "Collection",
+    "displayName": "FCU201",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "302": {
+    "$base": "Collection",
+    "displayName": "FCU202",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "303": {
+    "$base": "Collection",
+    "displayName": "FCU203",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "304": {
+    "$base": "Collection",
+    "displayName": "FCU204",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "305": {
+    "$base": "Collection",
+    "displayName": "FCU205",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "306": {
+    "$base": "Collection",
+    "displayName": "FCU206",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "307": {
+    "$base": "Collection",
+    "displayName": "FCU207",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "308": {
+    "$base": "Collection",
+    "displayName": "FCU208",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "309": {
+    "$base": "Collection",
+    "displayName": "FCU209",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "310": {
+    "$base": "Collection",
+    "displayName": "FCU210",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "311": {
+    "$base": "Collection",
+    "displayName": "FCU211",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "312": {
+    "$base": "Collection",
+    "displayName": "FCU212",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "313": {
+    "$base": "Collection",
+    "displayName": "FCU213",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "314": {
+    "$base": "Collection",
+    "displayName": "FCU214",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "315": {
+    "$base": "Collection",
+    "displayName": "FCU215",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "316": {
+    "$base": "Collection",
+    "displayName": "FCU216",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "317": {
+    "$base": "Collection",
+    "displayName": "FCU217",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "318": {
+    "$base": "Collection",
+    "displayName": "FCU218",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "400": {
+    "$base": "Collection",
+    "displayName": "Third Floor Router",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "401": {
+    "$base": "Collection",
+    "displayName": "FCU/04/SW/24",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "500": {
+    "$base": "Collection",
+    "displayName": "Fourth Floor Router",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "501": {
+    "$base": "Collection",
+    "displayName": "Unified Strategy for DAC1180E V1.1",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "502": {
+    "$base": "Collection",
+    "displayName": "SE for DAC1180E V1.0",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "503": {
+    "$base": "Collection",
+    "displayName": "FCU-403",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "504": {
+    "$base": "Collection",
+    "displayName": "Unified Strategy for DAC1180E V1.1",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "600": {
+    "$base": "Collection",
+    "displayName": "AHU Controller",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "601": {
+    "$base": "Collection",
+    "displayName": "eZFC-424R4-24 601",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "602": {
+    "$base": "Collection",
+    "displayName": "eZP-440R4-230 602",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "603": {
+    "$base": "Collection",
+    "displayName": "eZVP-440 603",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "604": {
+    "$base": "Collection",
+    "displayName": "eZNT-T304CHM 604",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "700": {
+    "$base": "Collection",
+    "displayName": "enteliBUS Manager 700",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "701": {
+    "$base": "Collection",
+    "displayName": "eZNT-T304CHM 701",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "702": {
+    "$base": "Collection",
+    "displayName": "eZNT-T304CHM 702",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "800": {
+    "$base": "Collection",
+    "displayName": "1st Floor Health Suite PCE/01/HS",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "1000": {
+    "$base": "Collection",
+    "displayName": "LTHWS Controller",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "2000": {
+    "$base": "Collection",
+    "displayName": "enteliBUS Manager 2000",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "4000000": {
+    "$base": "Collection",
+    "displayName": "enteliBUS Manager 4000000",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "4123890": {
+    "$base": "Collection",
+    "displayName": "DEV_4123890",
+    "nodeType": "DEVICE",
+    "truncated": "true"
+  },
+  "$base": "Collection"
+}
